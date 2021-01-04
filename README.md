@@ -1,4 +1,4 @@
-### Hi there 👋
+### Assalam-o-ALaikum! 👋
 
 I am Syed Muhammad Mooazam
 
