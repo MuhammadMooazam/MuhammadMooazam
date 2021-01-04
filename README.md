@@ -2,7 +2,7 @@
 
 I am Syed Muhammad Mooazam
 
-- 🔭 I’m currently working on QUANTUM COMPUTING.
+- 🔭 I’m currently working with IBM as a QISKIT Advocate.
 - 🌱 I’m currently learning QUANTUM COMPUTING, WEBISTE DEVELOPMENT and ELECTRICAL ENGINEERING.
 - 👯 I’m looking to collaborate on Quantum Computing Research.
 
