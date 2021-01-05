@@ -1,6 +1,6 @@
 ### Assalam-o-Alaikum! 👋
 
-I am ##Syed Muhammad Mooazam from Pakistan. I am an undergraduate student in Electrical Engineering Department in one of the most prestigious university of Pakistan named NED University of Engineering and Technology. My interest revolves around Quantum Computing, Website Development, Arduino etc.
+I am Syed Muhammad Mooazam from Pakistan. I am an undergraduate student in Electrical Engineering Department in one of the most prestigious university of Pakistan named NED University of Engineering and Technology. My interest revolves around Quantum Computing, Website Development, Arduino etc.
 I am the founder and Vice President of society in NED University named QUANTUM COMPUTING CLUB.
 I am also a QISKIT ADVOCATE in IBM.
 
