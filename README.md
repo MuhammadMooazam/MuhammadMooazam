@@ -1,6 +1,4 @@
-### Assalam-o-Alaikum! 👋
-
-I am Syed Muhammad Mooazam from Pakistan. I am an undergraduate student in Electrical Engineering Department in one of the most prestigious university of Pakistan named NED University of Engineering and Technology. My interest revolves around Quantum Computing, Website Development, Arduino etc.
+My interest revolves around Quantum Computing, Website Development, Arduino etc.
 I am the founder and Vice President of society in NED University named QUANTUM COMPUTING CLUB.
 I am also a QISKIT ADVOCATE in IBM.
 
@@ -20,7 +18,7 @@ I am also a QISKIT ADVOCATE in IBM.
 
 
 
-
+### Assalam-o-Alaikum! 👋
 # Syed Muhammad Mooazam
 ## Electrical Engineering (Junior Year)
 
@@ -30,14 +28,11 @@ I am also a QISKIT ADVOCATE in IBM.
 
 ## EXPERIENCE 
 
-### IBM | Qiskit Advocate
-August 2020– Present 
+### IBM | Qiskit Advocate (August 2020– Present) 
 Working on Quantum Computing. 
-### NCCS LAB NEDUET | Quantum Computing Intern  
-November2020 – January 2020 
+### NCCS LAB NEDUET | Quantum Computing Intern (November2020 – January 2020)  
 Working on Research of Quantum Key Distribution.  
-### QCC NEDUET | Vice President 
-December 2019–Present 
+### QCC NEDUET | Founder and Vice President (December 2019–Present) 
 Working on development and promotion of Quantum Computing and handlimg a team. 
 
 ## EDUCATION 
