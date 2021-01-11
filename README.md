@@ -4,6 +4,8 @@ I am Syed Muhammad Mooazam from Pakistan. I am an undergraduate student in Elect
 I am the founder and Vice President of society in NED University named QUANTUM COMPUTING CLUB.
 I am also a QISKIT ADVOCATE in IBM.
 
+<!--
+
 - 🔭 I’m currently working with IBM as a QISKIT Advocate.
 - 🌱 I’m currently learning QUANTUM COMPUTING, WEBISTE DEVELOPMENT and ELECTRICAL ENGINEERING.
 - 👯 I’m looking to collaborate on Quantum Computing Research.
