@@ -10,7 +10,7 @@ I am also a QISKIT ADVOCATE in IBM.
 - 🌱 I’m currently learning QUANTUM COMPUTING, WEBISTE DEVELOPMENT and ELECTRICAL ENGINEERING.
 - 👯 I’m looking to collaborate on Quantum Computing Research.
 
-<!--
+
 **MuhammadMooazam/MuhammadMooazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am Syed Muhammad Mooazam from Pakistan. I am an undergraduate student in Electrical Engineering Department in one of the most prestigious university of Pakistan named NED University of Engineering and Technology. 
@@ -74,7 +74,7 @@ https://www.researchgate.net/publication/343834124_Improvement_of_Quantum_Circui
 
 
 
-<!--
+
 **iqranaz240/iqranaz240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -87,6 +87,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 -->
