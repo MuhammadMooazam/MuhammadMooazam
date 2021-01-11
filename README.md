@@ -4,31 +4,72 @@ I am Syed Muhammad Mooazam from Pakistan. I am an undergraduate student in Elect
 I am the founder and Vice President of society in NED University named QUANTUM COMPUTING CLUB.
 I am also a QISKIT ADVOCATE in IBM.
 
-<!--
-
 - 🔭 I’m currently working with IBM as a QISKIT Advocate.
 - 🌱 I’m currently learning QUANTUM COMPUTING, WEBISTE DEVELOPMENT and ELECTRICAL ENGINEERING.
 - 👯 I’m looking to collaborate on Quantum Computing Research.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+# Syed Muhammad Mooazam
+## Electrical Engineering (Junior Year)
+
+### Email Address: muhammadmoazam29@gmail.com  
+### GitHub Link: https://github.com/MuhammadMooazam 
+### LinkedIn: https://www.linkedin.com/in/mooazam/ 
+
+## EXPERIENCE 
+
+### IBM | Qiskit Advocate
+August 2020– Present 
+Working on Quantum Computing. 
+### NCCS LAB NEDUET | Quantum Computing Intern  
+November2020 – January 2020 
+Working on Research of Quantum Key Distribution.  
+### QCC NEDUET | Vice President 
+December 2019–Present 
+Working on development and promotion of Quantum Computing and handlimg a team. 
+
+## EDUCATION 
+### BE ELECTRICAL ENGINERING | NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY 
+2018 – Present 
+CGPA 3.39 
+### INTERMEDIATE | DJ SINDH GOVERNMENT SCIENCE COLLEGE KARACHI 
+2016 – 2018 
+Percentage 80.09% | Grade A1
+### MATRICULATION | NASRA SCHOOL MALIR CAMPUS KARACHI 
+2014 – 2016 
+Percentage 82.24% | Grade A1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 **MuhammadMooazam/MuhammadMooazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am Syed Muhammad Mooazam from Pakistan. I am an undergraduate student in Electrical Engineering Department in one of the most prestigious university of Pakistan named NED University of Engineering and Technology. 
-
-My interest revolves around Quantum Computing, Website Development, Arduino etc.
-
-I am the founder and Vice President of society in NED University named QUANTUM COMPUTING CLUB.
-I am also q QISKIT ADVOCATE in IBM.
-
-- 🔭 I’m currently working on QUANTUM COMPUTING.
-- 🌱 I’m currently learning QUANTUM COMPUTING, WEBISTE DEVELOPMENT and ELECTRICAL ENGINEERING.
-- 👯 I’m looking to collaborate on Quantum Computing Research.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He.
-- ⚡ Fun fact: ...
-
 
 # Iqra Naz
 ## Software Engineering (Senior Year)
@@ -69,22 +110,7 @@ ResearchGate Link:
 https://www.researchgate.net/publication/343834124_Improvement_of_Quantum_Circuits_Using_H-U-H_Sandwich_Technique_with_Diagonal_Matrix_Implementation
 
 
-
-
-
-
-
-
 **iqranaz240/iqranaz240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
