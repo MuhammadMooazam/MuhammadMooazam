@@ -1,23 +1,3 @@
-My interest revolves around Quantum Computing, Website Development, Arduino etc.
-I am the founder and Vice President of society in NED University named QUANTUM COMPUTING CLUB.
-I am also a QISKIT ADVOCATE in IBM.
-
-- 🔭 I’m currently working with IBM as a QISKIT Advocate.
-- 🌱 I’m currently learning QUANTUM COMPUTING, WEBISTE DEVELOPMENT and ELECTRICAL ENGINEERING.
-- 👯 I’m looking to collaborate on Quantum Computing Research.
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Assalam-o-Alaikum! 👋
 # Syed Muhammad Mooazam
 ## Electrical Engineering (Junior Year)
@@ -37,14 +17,11 @@ Working on development and promotion of Quantum Computing and handlimg a team.
 
 ## EDUCATION 
 ### BE ELECTRICAL ENGINERING | NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY 
-2018 – Present 
-CGPA 3.39 
+(2018 – Present) | CGPA 3.39 
 ### INTERMEDIATE | DJ SINDH GOVERNMENT SCIENCE COLLEGE KARACHI 
-2016 – 2018 
-Percentage 80.09% | Grade A1
+(2016 – 2018) Percentage 80.09% | Grade A1
 ### MATRICULATION | NASRA SCHOOL MALIR CAMPUS KARACHI 
-2014 – 2016 
-Percentage 82.24% | Grade A1 
+(2014 – 2016) Percentage 82.24% | Grade A1 
 
 
 
@@ -65,6 +42,27 @@ Percentage 82.24% | Grade A1
 
 <!--
 **MuhammadMooazam/MuhammadMooazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interest revolves around Quantum Computing, Website Development, Arduino etc.
+I am the founder and Vice President of society in NED University named QUANTUM COMPUTING CLUB.
+I am also a QISKIT ADVOCATE in IBM.
+
+- 🔭 I’m currently working with IBM as a QISKIT Advocate.
+- 🌱 I’m currently learning QUANTUM COMPUTING, WEBISTE DEVELOPMENT and ELECTRICAL ENGINEERING.
+- 👯 I’m looking to collaborate on Quantum Computing Research.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Iqra Naz
 ## Software Engineering (Senior Year)
