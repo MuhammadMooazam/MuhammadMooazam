@@ -1,6 +1,6 @@
-### Assalam-o-Alaikum! 👋
-# Syed Muhammad Mooazam
-## Electrical Engineering (Junior Year)
+<h3> Assalam-o-Alaikum! 👋 </h3>
+<h1> Syed Muhammad Mooazam </h1>
+<h2> Electrical Engineering (Junior Year) </h2>
 
 ### Email Address: muhammadmoazam29@gmail.com  
 ### GitHub Link: https://github.com/MuhammadMooazam 
