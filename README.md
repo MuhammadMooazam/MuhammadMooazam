@@ -6,10 +6,14 @@
 ### GitHub Link: https://github.com/MuhammadMooazam 
 ### LinkedIn: https://www.linkedin.com/in/mooazam/ 
 
+<img src="https://komarev.com/ghpvc/?username=MuhammadMooazam" alt="" />
+
 ## EXPERIENCE 
 
 ### IBM | Qiskit Advocate (August 2020– Present) 
-Working on Quantum Computing. 
+Working on Quantum Computing.
+### NAVTTC NED UET | IoT Instructor (January 2021– Present) 
+Teaching Internet of Things. 
 ### NCCS LAB NEDUET | Quantum Computing Intern (November2020 – January 2020)  
 Working on Research of Quantum Key Distribution.  
 ### QCC NEDUET | Founder and Vice President (December 2019–Present) 
