@@ -6,8 +6,6 @@
 ### GitHub Link: https://github.com/MuhammadMooazam 
 ### LinkedIn: https://www.linkedin.com/in/mooazam/ 
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadMooazam" alt="" />
-
 ## EXPERIENCE 
 
 ### IBM | Qiskit Advocate (August 2020– Present) 
