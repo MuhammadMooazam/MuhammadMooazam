@@ -6,7 +6,7 @@
 ### GitHub Link: https://github.com/MuhammadMooazam 
 ### LinkedIn: https://www.linkedin.com/in/mooazam/ 
 
-
+<br/><br/>
 
 ## EXPERIENCE 
 
@@ -28,7 +28,7 @@ Worked as an ambassador for Pakistan's biggest educational expo.
 ### QCC NEDUET | Founder and Vice President | December 2019–Present
 Working on development and promotion of Quantum Computing and leading a team. 
 
-
+<br/><br/>
 
 ## EDUCATION 
 
