@@ -1,6 +1,6 @@
 <h3> Assalam-o-Alaikum! 👋 </h3>
 <h1> Syed Muhammad Mooazam </h1>
-<h2> Electrical Engineer </h2>
+<h2> Electrical Engineer | Internet of Things Developer </h2>
 
 ### Email Address: muhammadmoazam29@gmail.com  
 ### GitHub Link: https://github.com/MuhammadMooazam 
@@ -10,10 +10,13 @@
 
 ## EXPERIENCE 
 
-### IBM | Qiskit Advocate | August 2020– Present 
+### IBM | Qiskit Advocate (Ambassador) | August 2020– Present 
 Working on Quantum Computing.
 
-### NAVTTC NED UET | IoT Instructor | January 2021– Present
+### NAVTTC NED UET | IoT Instructor | January 2021– December 2021
+Teaching Internet of Things.
+
+### NAVTTC SSUET | IoT Instructor | March 2022– Present
 Teaching Internet of Things.
 
 ### NCCS LAB NEDUET | Quantum Computing Intern | November2020 – January 2020  
@@ -33,7 +36,7 @@ Working on development and promotion of Quantum Computing and leading a team.
 ## EDUCATION 
 
 ### BE ELECTRICAL ENGINERING | NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY 
-(2018 – Present) | CGPA 3.40 
+(2018 – Present)
 
 ### INTERMEDIATE | DJ SINDH GOVERNMENT SCIENCE COLLEGE KARACHI 
 (2016 – 2018) | Percentage 80.09% | Grade A1
