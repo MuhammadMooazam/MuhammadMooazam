@@ -10,13 +10,16 @@
 
 ## EXPERIENCE 
 
+### Faysal Bank Limited | Digital Trainee Officer (IT) | August 2022– Present 
+Working on System Integration on IIB.
+
 ### IBM | Qiskit Advocate (Ambassador) | August 2020– Present 
 Working on Quantum Computing.
 
 ### NAVTTC NED UET | IoT Instructor | January 2021– December 2021
 Teaching Internet of Things.
 
-### NAVTTC SSUET | IoT Instructor | March 2022– Present
+### NAVTTC SSUET | IoT Instructor | March 2022– September 2022
 Teaching Internet of Things.
 
 ### NCCS LAB NEDUET | Quantum Computing Intern | November2020 – January 2020  
