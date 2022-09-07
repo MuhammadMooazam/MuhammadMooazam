@@ -1,6 +1,6 @@
 <h3> Assalam-o-Alaikum! 👋 </h3>
 <h1> Syed Muhammad Mooazam </h1>
-<h2> Electrical Engineer | Internet of Things Developer </h2>
+<h2> Electrical Engineer | Internet of Things Developer | System Integration </h2>
 
 ### Email Address: muhammadmoazam29@gmail.com  
 ### GitHub Link: https://github.com/MuhammadMooazam 
@@ -39,7 +39,7 @@ Working on development and promotion of Quantum Computing and leading a team.
 ## EDUCATION 
 
 ### BE ELECTRICAL ENGINERING | NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY 
-(2018 – Present)
+(2018 – 2022)
 
 ### INTERMEDIATE | DJ SINDH GOVERNMENT SCIENCE COLLEGE KARACHI 
 (2016 – 2018) | Percentage 80.09% | Grade A1
