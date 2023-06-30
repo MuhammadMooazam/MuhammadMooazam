@@ -1,6 +1,6 @@
 <h3> Assalam-o-Alaikum! 👋 </h3>
 <h1> Syed Muhammad Mooazam </h1>
-<h2> Electrical Engineer | Internet of Things Developer | System Integration </h2>
+<h2> Digital Trainee Officer @ Faysal Bank | IBM ACE Developer | Integration | Electrical Engineer from NEDUET | IBM Qiskit Advocate (Ambassador) | Internet of Things Developer and Instructor | Data Science </h2>
 
 ### Email Address: muhammadmoazam29@gmail.com  
 ### GitHub Link: https://github.com/MuhammadMooazam 
@@ -11,28 +11,28 @@
 ## EXPERIENCE 
 
 ### Faysal Bank Limited | Digital Trainee Officer (IT) | August 2022– Present 
-Working on System Integration on IIB.
+Working on the development of ESB on IBM Integration Bus and IBM App Connect.
 
-### IBM | Qiskit Advocate (Ambassador) | August 2020– Present 
-Working on Quantum Computing.
+### IBM | Qiskit Advocate (Ambassador) | August 2020 – Present 
+Working on Quantum Computing and its promotion.
 
 ### NAVTTC NED UET | IoT Instructor | January 2021– December 2021
-Teaching Internet of Things.
+Taught the Internet of Things.
 
 ### NAVTTC SSUET | IoT Instructor | March 2022– September 2022
-Teaching Internet of Things.
+Taught the Internet of Things.
 
-### NCCS LAB NEDUET | Quantum Computing Intern | November2020 – January 2020  
-Researched of Quantum Key Distribution.
+### NCCS LAB NEDUET | Quantum Computing Intern | November2020 – January 2021
+Researched on Quantum Key Distribution.
 
-### UTF Labs | Internet of Things Intern | MAY 2021 - PRESENT
-Worked on IoT device and its PCB designing.
+### UTF Labs | Internet of Things Intern | APRIL 2021 - MAY 2021
+Worked on IoT devices and their PCB designs.
 
 ### IDP Pakistan | Ambassador Intern | MARCH 2021 - APRIL 2021
 Worked as an ambassador for Pakistan's biggest educational expo.
 
-### QCC NEDUET | Founder and Vice President | December 2019–Present
-Working on development and promotion of Quantum Computing and leading a team. 
+### QCC NEDUET | Founder and Vice President | December 2019– December 2021
+Working on the development and promotion of Quantum Computing and leading a team. 
 
 <br/>
 
