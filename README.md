@@ -4,10 +4,10 @@
 Welcome to my world of technology and innovation! I'm Mooazam, a passionate Software Engineer in the Banking Industry, specializing in the ESB domain using IBM APP Connect for APIs, middleware, and integration. With over 3+ years of experience in Software Development, I'm ready to bring innovation to life.
 
 ### Get in Touch 📫
-📧 **Email**: [muhammadmoazam29@gmail.com](mailto:muhammadmoazam29@gmail.com)
-🌐 **GitHub**: [MuhammadMooazam](https://github.com/MuhammadMooazam) (Explore my projects!)
-🌟 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/mooazam/) (Let's connect professionally!)
-🐦 **Twitter**: [Follow me on Twitter](https://twitter.com/SMMooazam) (Stay updated with my thoughts and insights!)
+📧 **Email**: [muhammadmoazam29@gmail.com](mailto:muhammadmoazam29@gmail.com) <br>
+🌐 **GitHub**: [MuhammadMooazam](https://github.com/MuhammadMooazam) (Explore my projects!) <br>
+🌟 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/mooazam/) (Let's connect professionally!) <br>
+🐦 **Twitter**: [Follow me on Twitter](https://twitter.com/SMMooazam) (Stay updated with my thoughts and insights!) <br>
 📱 **Phone**:  +923343523966 (Feel free to reach out!)
 
 ### My Tech Toolbox 🧰
@@ -20,5 +20,5 @@ I'm fluent in a wide range of languages and tools, including Python, Numpy, Pand
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadmooazam&theme=cobalt)
 
 ### Support My Journey 🚀
-If you appreciate my work and want to fuel my passion, consider buying me a coffee! Your support keeps me motivated and creative. ☕
+If you appreciate my work and want to fuel my passion, consider buying me a coffee! Your support keeps me motivated and creative. ☕  <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/smmooazam)
