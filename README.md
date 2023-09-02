@@ -15,7 +15,7 @@ Welcome to my world of technology and innovation! I'm Mooazam, a passionate Soft
 <!-- Tech Toolbox -->
 ### My Tech Toolbox 🧰
 I'm fluent in a wide range of languages and tools, including:
-- IBM App Connect, IBM Integration Bus, IBM MQ, ODBC, IBM Key Manager
+- ESQL, IBM App Connect, IBM Integration Bus, IBM MQ, ODBC, IBM Key Manager
 - Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Flask
 - C, C++
 - HTML, CSS, BootStrap, Javascript, React, NodeJS
