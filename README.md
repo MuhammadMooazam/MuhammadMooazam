@@ -24,11 +24,13 @@ I'm fluent in a wide range of languages and tools, including:
 Let's build something amazing together!
 
 <!-- GitHub Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmooazam&hide_progress=true&theme=cobalt)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadmooazam&show_icons=true&locale=en&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmooazam&hide_progress=true&theme=cobalt) <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadmooazam&show_icons=true&locale=en&theme=cobalt) <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadmooazam&theme=cobalt)
 
 <!-- Support My Journey -->
 ### Support My Journey 🚀
 If you appreciate my work and want to fuel my passion, consider buying me a coffee! Your support keeps me motivated and creative. ☕ <br> <br>
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/smmooazam){:height="30px" width="110px"}
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/smmooazam)
+
+
