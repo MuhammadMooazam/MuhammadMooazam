@@ -34,6 +34,6 @@ Let's build something amazing together!
 <!-- Support My Journey -->
 ### Support My Journey 🚀
 If you appreciate my work and want to fuel my passion, consider buying me a coffee! Your support keeps me motivated and creative. ☕ <br> <br>
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/smmooazam)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/smmooazam)
 
 
