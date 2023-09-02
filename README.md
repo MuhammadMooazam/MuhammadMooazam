@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-  <h3>Get in Touch</h3>
+  <h3>Get in Touch 📫</h3>
   <ul>
     <li>📧 Email: muhammadmoazam29@gmail.com</li>
     <li>🌐 GitHub: <a href="https://github.com/MuhammadMooazam">MuhammadMooazam</a></li>
@@ -19,15 +19,15 @@
   <p>I'm fluent in a wide range of languages and tools, including Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, C, C++, HTML, CSS, BootStrap, Javascript, React, NodeJS, MongoDB, MySQL, PLSQL, SOAP, Postman, Linux, Firebase, Git, and GitHub. Let's build something amazing together!</p>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmooazam&hide_progress=true&theme=cobalt" alt="MuhammadMooazam" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadmooazam&show_icons=true&locale=en&theme=cobalt" alt="MuhammadMooazam" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmooazam&theme=cobalt" alt="MuhammadMooazam" />
 </div>
 
