@@ -15,21 +15,17 @@ Welcome to my world of technology and innovation! I'm Mooazam, a passionate Soft
 <!-- Tech Toolbox -->
 ### My Tech Toolbox 🧰
 I'm fluent in a wide range of languages and tools, including:
-- **IBM ESB Technologies:** ESQL, IBM App Connect, IBM Integration Bus, IBM MQ, ODBC, IBM Key Manager
+- **IBM ESB/Middleware Technologies:** ESQL, IBM App Connect, IBM Integration Bus, IBM MQ, ODBC, IBM Key Manager
 - **Python Stack:** Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Flask
-- **General Programming:** C, C++
+- **Backend/API Stack:** NodeJS, ExpressJS, MongoDB, Vercel, Firebase
+- **General Programming:** C, C++, OOPS, DSA (Sorting and Searching, Stack and Queue, Graph and Tree, Linked List)
 - **Web Development:** HTML, CSS, BootStrap, Javascript, React, NodeJS
 - **Databases:** MongoDB, MySQL, PLSQL
 - **API & Testing:** SOAP, Postman
-- **Operating Systems:** Linux
+- **Operating Systems:** Linux, Windows
 - **Version Control:** Git, and GitHub
 
 Let's build something amazing together!
-
-<!-- GitHub Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmooazam&hide_progress=true&theme=cobalt) <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadmooazam&show_icons=true&locale=en&theme=cobalt) <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadmooazam&theme=cobalt)
 
 <!-- Support My Journey -->
 ### Support My Journey 🚀
